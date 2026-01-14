@@ -1,16 +1,21 @@
-# pomodoro
+# 🌲 Pomodoro Forest
+Muhammed Sağlam tarafından geliştirilen, odaklandıkça ormanını büyüttüğün bir verimlilik uygulaması.
 
-A new Flutter project.
+### ✨ Özellikler
+* ⏳ Klasik Pomodoro zamanlayıcı.
+* 🌧️ Rahatlatıcı yağmur sesleri (Açılıp kapatılabilir).
+* 🌳 Odaklandıkça dikilen ağaçlar.
+* 📱 Şık ve modern kullanıcı arayüzü.
 
-## Getting Started
+### 📸 Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+<img width="248" height="512" alt="image" src="https://github.com/user-attachments/assets/4a00f0d5-a695-4c7b-9fac-5e37cf76e2b8" />  GİRİŞ EKRANI
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="251" height="512" alt="image" src="https://github.com/user-attachments/assets/a18148c4-abc3-4bea-8a1f-043a6a3ae3d8" /> ÇALIŞMA ZAMANI
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="252" height="512" alt="image" src="https://github.com/user-attachments/assets/1667dda0-11a1-4c61-9234-24e8277ea989" /> MOLA ZAMANI
+
+
+<img width="259" height="512" alt="image" src="https://github.com/user-attachments/assets/abc29e7f-a4b2-4513-8843-cc59741f0bd1" /> ORMANIMIZ
