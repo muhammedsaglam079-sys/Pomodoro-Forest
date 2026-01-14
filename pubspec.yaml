@@ -1,0 +1,45 @@
+name: pomodoro_forest
+description: "Muhammed Sağlam için özel olarak tasarlanmış Pomodoro Forest uygulaması."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  
+  # Paketlerimiz
+  audioplayers: ^6.1.0
+  shared_preferences: ^2.2.2
+  google_mobile_ads: ^5.1.0 # Reklam paketi eklendi
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  # İkon oluşturucu paket
+  flutter_launcher_icons: ^0.13.1
+
+# İkon Ayarları
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/buyuk-agac.png"
+  adaptive_icon_background: "#064E3B"
+  adaptive_icon_foreground: "assets/buyuk-agac.png"
+
+flutter:
+  uses-material-design: true
+
+  # Resim ve Ses Dosyaları
+  assets:
+    - assets/bird.mp3
+    - assets/rain.mp3
+    - assets/bip.mp3
+    - assets/fidan.png
+    - assets/genc-agac.png
+    - assets/cicekli-agac.png
+    - assets/buyuk-agac.png
